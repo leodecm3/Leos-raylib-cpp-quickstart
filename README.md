@@ -17,7 +17,7 @@ This fork simplifies [Raylib-Quickstart](https://github.com/raylib-extras/raylib
 
 # Using this template
 
-First, change the icon `./resources/icon.png` and the player `./resources/wabbit_alpha.png.\
+First, change the icon `./resources/icon.png` and the player `./resources/wabbit_alpha.png.`\
 Duplicate, rename, and change the class `./src/MyClass` .h .cpp\
 Edit the Main function at ./src/main.cpp to use your class.
 
