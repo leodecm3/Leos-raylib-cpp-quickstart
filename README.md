@@ -17,14 +17,16 @@ This fork simplifies [Raylib-Quickstart](https://github.com/raylib-extras/raylib
 
 # Using this template
 
-First, change the icon `./resources/icon.png` and the player `./resources/wabbit_alpha.png.`\
+Rename this folder before generating the `.sln` file, as the project will be named after it.\
+Change the icon `./resources/icon.png` and the player `./resources/wabbit_alpha.png.`\
 Duplicate, rename, and change the class `./src/MyClass` .h .cpp\
-Edit the Main function at ./src/main.cpp to use your class.
+Edit the Main function at `./src/main.cpp` with your game./
 
 # Ship your game
 
 After opening Visual Studio and running the code as release, you will find the EXE at `/bin`.\
-To share your game, copy that EXE and the `./resources` folder to the same place.\
+To share your game, copy that EXE and the `./resources` folder to the same place, and ship it!.\
+
 It should look like this:
 
 FolderWithYourGame\
